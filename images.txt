@@ -8,5 +8,5 @@ mysql:8.0
 minio/minio:latest
 redis:7.0
 milvusdb/milvus:v2.2.15
-bitnami/etcd:latest
+
 nginx:1.23
