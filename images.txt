@@ -6,3 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
 mysql:8.0
+minio/minio:latest
+redis:7.0
+milvusdb/milvus:v2.2.15
+bitnami/etcd:3.5.9
+nginx:1.23
